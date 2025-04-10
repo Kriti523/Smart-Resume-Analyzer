@@ -1,0 +1,1 @@
+[System.Environment]::SetEnvironmentVariable("MYSQL_HOME", "C:\Program Files\MySQL\MySQL Server 8.0", [System.EnvironmentVariableTarget]::Machine)
